@@ -35,7 +35,7 @@
     <header class="header_section">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="index.php">
             <span>
               Heustonn
             </span>
@@ -50,16 +50,16 @@
             <div class="d-flex mx-auto flex-column flex-lg-row align-items-center">
               <ul class="navbar-nav  ">
                 <li class="nav-item ">
-                  <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item active">
-                  <a class="nav-link" href="about.html"> About </a>
+                  <a class="nav-link" href="about.php"> About </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="service.html"> Services </a>
+                  <a class="nav-link" href="service.php"> Services </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="contact.html">Contact us</a>
+                  <a class="nav-link" href="contact.php">Contact us</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">Login</a>
@@ -130,22 +130,22 @@
             </h4>
             <ul>
               <li>
-                <a href="index.html">
+                <a href="index.php">
                   Home
                 </a>
               </li>
               <li>
-                <a href="about.html">
+                <a href="about.php">
                   About
                 </a>
               </li>
               <li>
-                <a href="service.html">
+                <a href="service.php">
                   Services
                 </a>
               </li>
               <li>
-                <a href="contact.html">
+                <a href="contact.php">
                   Contact Us
                 </a>
               </li>
@@ -209,7 +209,7 @@
                 </a>
               </li>
               <li>
-                <a href="contact.html">
+                <a href="contact.php">
                   Contact Us
                 </a>
               </li>
